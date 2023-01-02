@@ -1,4 +1,0 @@
-AdString100
-10.8989289839true
-2471847F
-String
