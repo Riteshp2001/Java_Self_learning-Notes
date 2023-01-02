@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSA/DSA.iml" filepath="$PROJECT_DIR$/DSA/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Govind Java/Govind Java.iml" filepath="$PROJECT_DIR$/Govind Java/Govind Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Self Learning/Java Self Learning.iml" filepath="$PROJECT_DIR$/Java Self Learning/Java Self Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Self_learning-Notes.iml" filepath="$PROJECT_DIR$/Java_Self_learning-Notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Python_Beginner/Python_Beginner.iml" filepath="$PROJECT_DIR$/Python_Beginner/Python_Beginner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_Framework/Spring_Framework.iml" filepath="$PROJECT_DIR$/Spring_Framework/Spring_Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_Framwork/Spring_Framwork.iml" filepath="$PROJECT_DIR$/Spring_Framwork/Spring_Framwork.iml" />
+    </modules>
+  </component>
+</project>
